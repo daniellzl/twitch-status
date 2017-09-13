@@ -2,7 +2,7 @@
 
 View the status of various Twitch.tv channels
 
-[Live Application](twitch-status-dlzl.surge.sh)
+[Live Application](https://twitch-status-dlzl.surge.sh)
 
 ### Project Goals
 
